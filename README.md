@@ -5,7 +5,6 @@
 
 ## Table of contents
 * [General Info](#general-information)
-* [How It Works](#how-it-works)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
