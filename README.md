@@ -1,4 +1,4 @@
-# Number Guesser
+# Paint Store
 > A web page for a fictional home paint business.
 > Live demo [_here_](https://peterkibuchi.github.io/paint-store/).
 
