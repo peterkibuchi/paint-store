@@ -38,4 +38,4 @@ Project is: _completed_.
 
 ## Contact
 - Created by [Codecademy](https://www.codecademy.com/).
-- Improved upon by [Peter Kibuchi](https://peterkibuchi.com).
+- Improved upon by [Peter Kibuchi](https://www.peterkibuchi.com).
