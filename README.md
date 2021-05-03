@@ -8,7 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -30,7 +30,7 @@ Project is: _completed_.
 * Improve the visual design.
 
 
-## Inspiration
+## Acknowledgements
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 - In this project, most of the boilerplate code is provided, and the page is almost ready to be published.
 - One only has to make various color related changes to improve the aesthetics.
@@ -38,4 +38,4 @@ Project is: _completed_.
 
 ## Contact
 - Created by [Codecademy](https://www.codecademy.com/).
-- Improved upon by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
+- Improved upon by [Peter Kibuchi](https://peterkibuchi.com).
